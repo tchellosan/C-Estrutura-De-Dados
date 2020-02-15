@@ -9,5 +9,5 @@ typedef int bool;
 
 typedef struct{
 	TIPOCHAVE chave;
-	int info;
+	char info[50];
 } REGISTRO;
