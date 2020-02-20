@@ -5,6 +5,9 @@
 #define FIM_LISTA		-1
 #define INICIO_1		1
 #define INICIO_2		2
+#define PILHA_TOTAL		0
+#define PILHA_1			1
+#define PILHA_2			2
 
 typedef int TIPOCHAVE;
 typedef int bool;
