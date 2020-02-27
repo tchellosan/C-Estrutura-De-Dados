@@ -1,4 +1,4 @@
-#define MAX				10
+#define MAX				9
 #define true			1
 #define false			0
 #define NAO_ENCONTRADO	-1
@@ -8,6 +8,7 @@
 #define PILHA_TOTAL		0
 #define PILHA_1			1
 #define PILHA_2			2
+#define NP				3
 
 typedef int TIPOCHAVE;
 typedef int bool;
